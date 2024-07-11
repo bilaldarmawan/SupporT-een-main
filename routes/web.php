@@ -13,7 +13,9 @@ use App\Http\Controllers\PurchaseController;
 use App\Http\Controllers\TransaksiController;
 
 // Rute umum untuk halaman-halaman dasar
-Route::get('/', [UserController::class, 'index'])->name('index');
+Route::get('/', function () {
+    return file_get_contents(public_path('index.html'));
+});
 Route::get('/home', [UserController::class, 'home'])->name('home');
 Route::get('/jasa', [JasaController::class, 'index'])->name('jasa.index');
 Route::get('/transaksi', [UserController::class, 'transaksi'])->name('transaksi');
