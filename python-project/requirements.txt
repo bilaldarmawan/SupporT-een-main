@@ -1,0 +1,9 @@
+Flask
+transformers
+deep-translator
+google-generativeai
+python-dotenv
+torch
+pandas
+scikit-learn
+joblib

@@ -1,0 +1,351 @@
+Input,Input_Intent,Response,Response_Intent
+"Hai, lagi apa nih?",Greetings,Hai! Lagi ngapain nih?,Greetings
+"Halo, boleh curhat nggak?",Greetings,Halo! Gimana kabarmu hari ini?,Greetings
+"Hii, aku pengen ngobrol deh",Greetings,"Hey, ada cerita seru nggak hari ini?",Greetings
+"Yo, lagi sibuk nggak?",Greetings,"Halo, apa yang lagi kamu pikirin?",Greetings
+"Eh, ada waktu buat dengerin aku?",Greetings,Hai! Udah makan belum?,Greetings
+"Selamat siang, gimana kabarnya?",Greetings,Hei! Ada yang bisa aku bantu?,Greetings
+"Hai, aku lagi bingung nih...",Greetings,"Halo, semoga harimu menyenangkan ya!",Greetings
+"Halo, aku mau cerita dong",Greetings,Hai! Apa kabar? Mau ngobrol apa?,Greetings
+"Heii, ada yang mau aku omongin nih",Greetings,Hey! Lagi sibuk apa sekarang?,Greetings
+"Hai, lagi santai nggak?",Greetings,Halo! Senang banget ketemu kamu lagi,Greetings
+"Woi, bisa ngobrol bentar nggak?",Greetings,"Hai! Yuk, cerita apa aja hari ini!",Greetings
+Pagi! Aku mau share sesuatu nih,Greetings,"Hey, kabar baik kan? Yuk ngobrol!",Greetings
+"Halo, kayaknya aku butuh teman cerita deh",Greetings,Halo! Lagi pengen ngomongin apa nih?,Greetings
+"Eh, lagi di sana nggak? Aku mau ngomong",Greetings,"Hai! Ceritain dong, ada apa hari ini?",Greetings
+"Yo, aku boleh curhat sama kamu kan?",Greetings,Halo! Aku di sini buat dengerin kamu!,Greetings
+"Hai, bisa nemenin ngobrol bentar nggak?",Greetings,"Sama-sama, senang bisa bantu!",Thanks
+"Eh, aku pengen cerita, kamu ada waktu?",Greetings,"Wah, nggak usah sungkan, aku senang kok.",Thanks
+"Halo, aku lagi galau nih, ngobrol yuk",Greetings,"Kapan aja kalau butuh ngobrol lagi, ya!",Thanks
+"Hehe, aku nyari teman ngobrol nih",Greetings,"Santai aja, aku selalu ada buat kamu.",Thanks
+"Hai, aku boleh ganggu bentar?",Greetings,"Oke banget, aku senang bisa denger cerita kamu.",Thanks
+"Yo, boleh dong aku cerita ke kamu",Greetings,"Iya, nggak perlu sungkan. Cerita aja kapanpun.",Thanks
+"Hai, gimana kabarmu? Aku pengen cerita",Greetings,"Sip, semoga bisa bikin kamu lebih lega ya!",Thanks
+"Halo, aku lagi butuh saran nih",Greetings,Sama-sama! Aku senang bisa bikin kamu merasa lebih baik.,Thanks
+"Eh, aku boleh nanya sesuatu nggak?",Greetings,"Yuk, lanjut aja kalau ada yang mau dibahas lagi.",Thanks
+"Hai, aku lagi buntu, ngobrol yuk",Greetings,"Santuy, aku selalu di sini buat kamu.",Thanks
+Makasih ya udah dengerin aku,Thanks,"Gampang banget, kapanpun kamu butuh, cerita aja.",Thanks
+Thank you banget ya,Thanks,"Aku yang harusnya makasih, kamu udah percaya buat cerita.",Thanks
+"Serius, makasih loh",Thanks,"Oke, semoga obrolan ini bantu kamu, ya!",Thanks
+Aku bener-bener berterima kasih,Thanks,"Sama-sama, nggak ada yang lebih penting dari bantu teman!",Thanks
+Makasih banget buat semuanya,Thanks,"Keren, semoga setelah ini kamu lebih tenang, ya!",Thanks
+"Eh, makasih ya udah bantuin aku",Thanks,"Aku baik, kamu sendiri gimana?",General_Conversation
+Terima kasih banget nih,Thanks,"Hari ini lumayan seru, kamu gimana?",General_Conversation
+Makasih banyak loh,Thanks,Lagi dengerin lagu apa nih? Mau rekomendasiin?,General_Conversation
+Thanks ya udah care,Thanks,"Wah, akhir pekan ada rencana seru apa?",General_Conversation
+Aku makasih banget seriusan,Thanks,"Lagi santai nih, kamu sendiri gimana?",General_Conversation
+Makasih ya udah ada buat aku,Thanks,"Film yang bagus? Hmm, aku lagi suka action, kamu?",General_Conversation
+"Gak tau mau ngomong apa, makasih",Thanks,"Pengen makan enak, ada ide nggak?",General_Conversation
+Makasih banget yaa,Thanks,Cerita dong cerita lucu kamu!,General_Conversation
+Eh thanks banget ya,Thanks,Sekolah tadi gimana? Ada hal seru?,General_Conversation
+Terima kasih udah dengerin aku,Thanks,"Aku lagi santai aja, ada cerita?",General_Conversation
+Makasih banget udah support aku,Thanks,Tempat liburan favorit kamu apa?,General_Conversation
+"Aku bener-bener bersyukur, makasih",Thanks,Hari ini bikin happy karena ngobrol sama kamu!,General_Conversation
+"Makasih ya, kamu baik banget",Thanks,Biasanya kamu ngapain kalau nggak sibuk?,General_Conversation
+Wah makasih banget serius,Thanks,"Wah, hobi kamu keren banget, ceritain lagi dong!",General_Conversation
+Thanks banget udah bantu aku,Thanks,"Makanan viral? Belum coba nih, enak nggak?",General_Conversation
+Aku cuma mau bilang makasih,Thanks,"Aku ngerti kok, cerita aja kalau kamu mau.",Share_Sadness
+Terima kasih banyak ya,Thanks,"Aku di sini buat dengerin, jangan ragu ya.",Share_Sadness
+"Aku gak nyangka, makasih loh",Thanks,"Kadang emang berat banget ya, kamu nggak sendiri kok.",Share_Sadness
+Thanks banget kamu tuh baik,Thanks,Mau cerita lebih banyak? Aku ada waktu buat kamu.,Share_Sadness
+Aduh makasih banget deh,Thanks,"Aku paham kok, yuk cerita biar lega sedikit.",Share_Sadness
+Apa kabar? Lagi ngapain sekarang?,General_Conversation,"Sedih itu wajar banget, aku ngerti banget rasanya.",Share_Sadness
+"Hei, cerita dong hari ini gimana?",General_Conversation,"Aku di sini kok, kamu nggak sendirian.",Share_Sadness
+Lagi dengerin lagu apa yang asyik nih?,General_Conversation,Rasanya berat ya? Cerita ke aku aja pelan-pelan.,Share_Sadness
+Ada rencana seru buat akhir pekan?,General_Conversation,"Aku bisa bantu dengerin, ayo cerita kalau kamu siap.",Share_Sadness
+"Kalau lagi santai, biasanya kamu ngapain?",General_Conversation,"Kamu udah kuat banget, aku ada buat dukung kamu.",Share_Sadness
+"Eh, ada film bagus nggak yang lagi kamu suka?",General_Conversation,"Gak apa-apa kok, cerita aja biar lebih ringan.",Share_Sadness
+Lagi pengen makan apa sekarang?,General_Conversation,"Kalau sedih, kadang cerita bisa bikin lega lho.",Share_Sadness
+Punya cerita lucu nggak minggu ini?,General_Conversation,"Aku ngerti, yuk coba pelan-pelan cari jalan keluarnya.",Share_Sadness
+Gimana tadi di sekolah atau kerja? Seru nggak?,General_Conversation,"Sedih itu gak apa-apa kok, aku dengerin ya.",Share_Sadness
+Kamu lagi nungguin acara apa sekarang?,General_Conversation,"Kamu nggak sendirian ngerasain ini, aku ada di sini buat bantu.",Share_Sadness
+Lagi kepikiran tempat seru buat liburan nggak?,General_Conversation,"Kamu pasti bisa kok, pelan-pelan aja, yang penting jangan nyerah!",Ask_Motivation
+Ada hal menarik yang bikin kamu senyum hari ini?,General_Conversation,"Coba ingat lagi alasan kamu mulai, itu bakal bikin kamu semangat lagi.",Ask_Motivation
+"Kalau nggak sibuk, biasanya kamu ngapain?",General_Conversation,"Kadang susah itu wajar, tapi yakin deh kamu punya kemampuan buat ngatasin ini.",Ask_Motivation
+Kamu punya hobi seru nggak? Mau cerita dong!,General_Conversation,"Jangan terlalu keras sama diri sendiri, yang penting kamu udah coba terbaik.",Ask_Motivation
+"Eh, kamu udah coba makanan viral yang itu belum?",General_Conversation,"Gak apa-apa kalau capek, tapi jangan lupa bangkit lagi ya!",Ask_Motivation
+"Kalau lagi bosan, biasanya kamu gimana sih ngilanginnya?",General_Conversation,"Setiap usaha kecil itu berarti, jadi terusin aja langkahnya.",Ask_Motivation
+Ada seri atau buku yang lagi kamu suka banget?,General_Conversation,"Hei, kamu tuh jauh lebih kuat dari yang kamu pikir, percaya deh!",Ask_Motivation
+"Cerita dong, apa yang bikin kamu happy akhir-akhir ini?",General_Conversation,"Kalau butuh istirahat, ambil aja dulu, abis itu lanjut lagi dengan semangat baru.",Ask_Motivation
+"Kalau disuruh pilih, liburan ke pantai atau gunung?",General_Conversation,"Ingat, semua orang hebat juga pernah mulai dari nol kayak kamu.",Ask_Motivation
+Lagi suka nonton apa belakangan ini?,General_Conversation,"Jangan fokus ke hasil akhir aja, nikmatin juga prosesnya ya!",Ask_Motivation
+Kamu suka olahraga apa sih?,General_Conversation,"Kadang perjalanan itu yang bikin kita jadi lebih kuat, bukan tujuannya.",Ask_Motivation
+"Kalau ketemu teman lama, biasanya bahas apa?",General_Conversation,"Kamu keren kok, jangan biarin pikiran negatif bikin kamu berhenti.",Ask_Motivation
+Ada aplikasi keren yang kamu pakai akhir-akhir ini?,General_Conversation,"Kalau kamu butuh dukungan, aku di sini kok buat bantuin.",Ask_Motivation
+"Kalau ada waktu sehari buat bebas, kamu mau ngapain?",General_Conversation,"Gak ada yang instan, tapi usaha kamu pasti bakal ada hasilnya suatu saat.",Ask_Motivation
+Punya ide kreatif buat ngisi waktu luang nggak?,General_Conversation,"Semangat terus ya, hasil besar itu dimulai dari langkah kecil.",Ask_Motivation
+Aku lagi sedih banget hari ini,Share_Sadness,"Aku di sini kok, cerita aja.",Need_Someone_To_Talk
+"Lagi nggak enak hati, pengen cerita",Share_Sadness,Lagi kepikiran apa? Aku dengerin ya.,Need_Someone_To_Talk
+Kayaknya hidupku kok berat banget ya,Share_Sadness,"Santai aja, cerita apa pun aku siap dengerin.",Need_Someone_To_Talk
+"Aku lagi galau banget, boleh cerita?",Share_Sadness,Ada yang mau kamu omongin? Aku di sini buat bantu.,Need_Someone_To_Talk
+Ada yang bikin aku kecewa hari ini,Share_Sadness,"Cerita aja pelan-pelan, nggak usah buru-buru.",Need_Someone_To_Talk
+Rasanya nggak ada yang ngerti aku,Share_Sadness,"Yuk ngobrol, aku siap kok buat dengerin kamu.",Need_Someone_To_Talk
+Lagi kepikiran sesuatu yang bikin sedih,Share_Sadness,Mau cerita apa hari ini? Aku penasaran dengerin ceritamu.,Need_Someone_To_Talk
+Aku ngerasa sendirian banget,Share_Sadness,Lagi ada yang bikin galau? Aku di sini buat bantuin kamu.,Need_Someone_To_Talk
+Hari ini bener-bener bikin capek hati,Share_Sadness,"Cerita apa aja nggak masalah kok, aku selalu ada buat kamu.",Need_Someone_To_Talk
+Aku bingung banget sama perasaanku,Share_Sadness,"Aku ngerti, kadang ngomongin perasaan tuh nggak gampang, tapi coba aja.",Need_Someone_To_Talk
+Ada yang bikin aku nangis tadi,Share_Sadness,"Apa pun yang kamu rasain, aku bakal dengerin tanpa nge-judge kok.",Need_Someone_To_Talk
+Lagi kangen sama sesuatu yang nggak bisa balik,Share_Sadness,Butuh telinga buat dengerin ceritamu? Aku siap nih.,Need_Someone_To_Talk
+Aku nggak tau harus cerita ke siapa,Share_Sadness,"Cerita aja, aku nggak bakal bilang ke siapa-siapa kok.",Need_Someone_To_Talk
+Ada masalah yang bikin aku stres,Share_Sadness,Lagi ada apa? Yuk kita ngobrol biar lega.,Need_Someone_To_Talk
+Aku ngerasa nggak dihargai,Share_Sadness,"Kadang ngomong bisa bikin lega, coba deh cerita ke aku.",Need_Someone_To_Talk
+Lagi mikirin hal yang bikin hati sakit,Share_Sadness,"Tenang aja, kamu nggak sendirian kok, aku di sini buat kamu.",Share_Anxiety
+Aku ngerasa gagal banget,Share_Sadness,"Kalau lagi cemas, coba tarik napas dalam-dalam dulu yuk.",Share_Anxiety
+Aku lagi nggak percaya diri,Share_Sadness,"Ceritain aja pelan-pelan, aku dengerin kok.",Share_Anxiety
+Rasanya semua salahku deh,Share_Sadness,"Kadang semua terasa berat, tapi aku yakin kamu bisa lewatin ini.",Share_Anxiety
+Aku kecewa banget sama seseorang,Share_Sadness,Apa yang bikin kamu kepikiran banget? Ceritain ke aku yuk.,Share_Anxiety
+Lagi nggak tahu arah hidup mau kemana,Share_Sadness,"Jangan terlalu keras sama diri sendiri, semua butuh waktu.",Share_Anxiety
+Aku pengen cerita soal hari burukku,Share_Sadness,"Aku ngerti kok, cemas itu nggak enak. Pelan-pelan aja ya.",Share_Anxiety
+Aku nggak ngerti kenapa aku sedih banget,Share_Sadness,Apa yang bikin kamu khawatir? Aku bakal bantu semampuku.,Share_Anxiety
+Hari ini rasanya kacau balau,Share_Sadness,"Kadang pikiran suka overthinking ya, coba pikirin hal positif yuk.",Share_Anxiety
+Aku merasa nggak cukup baik buat orang lain,Share_Sadness,"Kamu nggak sendiri kok, selalu ada solusi buat semua masalah.",Share_Anxiety
+"Aku lagi butuh semangat nih, bisa bantu?",Ask_Motivation,Lagi cemas karena apa nih? Siapa tahu aku bisa bantu.,Share_Anxiety
+"Lagi ngerasa down banget, ada tips nggak?",Ask_Motivation,"Jangan takut buat cerita, aku nggak akan nge-judge kok.",Share_Anxiety
+Gimana caranya biar aku nggak nyerah ya?,Ask_Motivation,Kadang ketakutan itu cuma di kepala kita aja. Yuk cerita!,Share_Anxiety
+"Aku takut gagal, gimana caranya buat berani?",Ask_Motivation,"Aku tahu nggak mudah, tapi kamu pasti bisa hadapin ini.",Share_Anxiety
+Kok aku ngerasa nggak ada yang support ya?,Ask_Motivation,"Kalau cemas banget, coba fokus ke hal-hal kecil yang bikin kamu tenang.",Share_Anxiety
+"Lagi capek banget, bisa kasih aku dorongan?",Ask_Motivation,Coba deh tulis hal-hal kecil yang bikin kamu senyum tiap hari.,Ask_Positive_Tips
+"Aku pengen bangkit, tapi kok susah banget?",Ask_Motivation,"Gak apa-apa kok kalau hari ini berat, besok masih ada waktu buat coba lagi.",Ask_Positive_Tips
+Kenapa aku selalu ngerasa nggak cukup baik?,Ask_Motivation,Fokus aja sama hal-hal yang bikin kamu bahagia sekarang.,Ask_Positive_Tips
+"Aku bingung harus mulai dari mana, bantuin?",Ask_Motivation,"Kadang, tarik napas dalam-dalam bisa bantu banget biar lebih rileks.",Ask_Positive_Tips
+"Lagi sedih nih, gimana biar semangat lagi?",Ask_Motivation,"Ingat, gak semua hal perlu sempurna. Nikmatin prosesnya aja.",Ask_Positive_Tips
+Ada cara nggak biar aku lebih percaya diri?,Ask_Motivation,"Luangkan waktu buat ngelakuin hal yang kamu suka, sekecil apapun itu.",Ask_Positive_Tips
+Aku nggak ngerti kenapa aku gampang nyerah,Ask_Motivation,"Setiap usaha yang kamu lakuin itu berarti, jangan meremehkan diri sendiri ya!",Ask_Positive_Tips
+"Aku pengen move on dari rasa malas, gimana?",Ask_Motivation,"Jangan terlalu keras sama diri sendiri, kamu juga butuh istirahat kok.",Ask_Positive_Tips
+Apa sih yang bikin orang bisa semangat terus?,Ask_Motivation,"Lihat sisi baik dari hal kecil, kadang itu bisa bikin hati lebih hangat.",Ask_Positive_Tips
+"Aku pengen punya harapan lagi, caranya gimana?",Ask_Motivation,Dikelilingi sama teman yang positif bisa bantu mood kamu naik loh.,Ask_Positive_Tips
+"Lagi ngerasa hopeless, kasih aku motivasi dong",Ask_Motivation,"Coba jalan-jalan keluar, udara segar kadang bikin pikiran lebih tenang.",Ask_Positive_Tips
+"Susah banget buat percaya diri, gimana ya?",Ask_Motivation,"Nikmatin momen sekarang, jangan terlalu khawatir sama masa depan.",Ask_Positive_Tips
+"Aku sering ngerasa nggak berguna, kenapa ya?",Ask_Motivation,"Kalau ada hal berat, coba pecah jadi langkah-langkah kecil.",Ask_Positive_Tips
+Gimana caranya biar aku nggak gampang nyerah?,Ask_Motivation,"Cari hal baru buat dicoba, kadang perubahan kecil bikin hidup lebih seru.",Ask_Positive_Tips
+"Aku lagi nggak mood banget, bisa kasih tips?",Ask_Motivation,"Kamu itu berharga banget, jangan lupa kasih apresiasi buat diri sendiri!",Ask_Positive_Tips
+"Kok aku gampang nyerah, ada yang salah sama aku?",Ask_Motivation,"Waduh, kenapa kok bisa gitu sama temanmu? Ceritain dong",Friendship_Troubles
+"Aku sering ngerasa sendirian, gimana biar nggak gitu?",Ask_Motivation,"Aku ngerti, kadang emang susah jaga persahabatan. Gimana ceritanya?",Friendship_Troubles
+Gimana caranya biar aku semangat belajar lagi?,Ask_Motivation,"Eh, temenmu kenapa? Aku dengerin kok",Friendship_Troubles
+"Lagi stuck banget, gimana biar aku jalan lagi?",Ask_Motivation,"Kayaknya ini bikin kamu sedih ya. Cerita aja, biar lega",Friendship_Troubles
+Kenapa aku susah banget buat optimis?,Ask_Motivation,"Kadang masalah sama temen tuh bikin galau banget, ya. Gimana solusinya?",Friendship_Troubles
+"Aku lagi butuh cerita nih, boleh gak?",Need_Someone_To_Talk,"Menurutmu, apa yang bikin dia berubah?",Friendship_Troubles
+"Aduh, aku pusing banget, boleh curhat gak?",Need_Someone_To_Talk,Mungkin perlu ngobrol lebih jujur sama dia. Gimana menurutmu?,Friendship_Troubles
+"Lagi galau banget nih, pengen cerita aja",Need_Someone_To_Talk,"Aku ngerti kok, pasti berat kalau lagi ada masalah sama temen",Friendship_Troubles
+"Aku bosen banget, ngobrol yuk?",Need_Someone_To_Talk,"Jangan terlalu dipendam, ceritain aja ke aku, biar aku bantu mikir",Friendship_Troubles
+"Lagi banyak masalah nih, bantu dengerin dong",Need_Someone_To_Talk,Apa ada hal yang belum kalian omongin dengan jelas?,Friendship_Troubles
+Curhat sama kamu boleh gak?,Need_Someone_To_Talk,Kadang temen juga butuh waktu buat sendiri. Gimana kalau sabar dulu?,Friendship_Troubles
+"Aku bingung banget, cerita sama siapa ya?",Need_Someone_To_Talk,Temen yang baik bakal ngerti kok kalau kamu jelasin dengan hati-hati,Friendship_Troubles
+"Aku lagi kepikiran sesuatu, mau cerita deh",Need_Someone_To_Talk,"Kayaknya kamu butuh kasih dia ruang dulu deh, biar nggak makin runyam",Friendship_Troubles
+"Aku lagi gak mood banget, boleh cerita gak?",Need_Someone_To_Talk,"Hmm, kalau temen beneran, dia pasti mau ngobrolin ini baik-baik",Friendship_Troubles
+"Lagi berat banget hari ini, bisa dengerin gak?",Need_Someone_To_Talk,Kamu udah coba jujur sama dia soal perasaanmu? Mungkin itu bisa bantu,Friendship_Troubles
+"Aku lagi butuh saran, boleh curhat gak?",Need_Someone_To_Talk,"Aku ngerti kok, kadang keluarga bisa bikin pusing banget.",Family_Issues
+"Aku pengen ngomong sama seseorang, boleh kamu?",Need_Someone_To_Talk,"Hmm, kamu mau cerita lebih lanjut nggak? Aku dengerin kok.",Family_Issues
+"Lagi gak tau harus gimana, cerita yuk",Need_Someone_To_Talk,"Aduh, pasti berat ya rasanya. Gimana kalau kamu coba ngobrol pelan-pelan?",Family_Issues
+"Aku lagi ngerasa sendiri, bisa temenin ngobrol?",Need_Someone_To_Talk,"Kadang keluarga nggak selalu ngerti kita, tapi tetep sayang kok.",Family_Issues
+"Aku butuh banget ngobrol, bisa bantu?",Need_Someone_To_Talk,"Coba deh kasih waktu, mungkin nanti mereka bisa ngerti apa yang kamu mau.",Family_Issues
+"Curhat soal hidup nih, bisa gak?",Need_Someone_To_Talk,"Wah, aku ngerti banget situasinya. Kalau kamu butuh pendapat, bilang aja.",Family_Issues
+"Aku lagi stres banget, mau cerita sama kamu",Need_Someone_To_Talk,"Kadang memang susah sih buat bikin mereka ngerti kita, tapi coba sabar ya.",Family_Issues
+Kamu bisa jadi temen cerita aku gak sekarang?,Need_Someone_To_Talk,Semoga keadaan di rumah kamu segera membaik ya.,Family_Issues
+"Aku lagi down banget, pengen ngomong sama kamu",Need_Someone_To_Talk,"Jangan nyerah dulu ya, siapa tahu pelan-pelan mereka mulai paham kamu.",Family_Issues
+"Cerita soal masalah aku yuk, bisa dengerin gak?",Need_Someone_To_Talk,"Kalau berat banget, coba curhat ke orang yang kamu percaya.",Family_Issues
+"Aku lagi capek banget, pengen curhat aja deh",Need_Someone_To_Talk,"Ngobrol sama keluarga memang nggak gampang, tapi kamu hebat bisa coba terus.",Family_Issues
+"Lagi gak tau harus gimana, cerita sama kamu boleh?",Need_Someone_To_Talk,"Kadang yang kita perluin cuma waktu, semoga semua jadi lebih baik ya.",Family_Issues
+"Aku pengen ngomong, kamu bisa temenin aku gak?",Need_Someone_To_Talk,Aku ngerti perasaan kamu. Semua orang punya cara pandang yang beda-beda.,Family_Issues
+Aku butuh banget temen ngobrol sekarang,Need_Someone_To_Talk,"Nggak apa-apa kok kalau kamu merasa kecewa, itu hal yang manusiawi banget.",Family_Issues
+Cerita sama kamu seru gak ya? Aku coba ya!,Need_Someone_To_Talk,"Kalau keluarga lagi nggak suportif, ingat aja ada aku yang bisa dengerin.",Family_Issues
+"Aku lagi galau banget, pengen cerita.",Share_Anxiety,,
+Kok akhir-akhir ini aku gampang banget cemas ya?,Share_Anxiety,,
+"Rasanya nggak nyaman terus, ada yang salah nggak sih sama aku?",Share_Anxiety,,
+"Aku suka panik kalau ada hal kecil, ini kenapa ya?",Share_Anxiety,,
+"Lagi ngerasa gelisah banget, boleh cerita nggak?",Share_Anxiety,,
+Kenapa ya aku suka overthinking sama hal sepele?,Share_Anxiety,,
+Aku lagi khawatir banget sama masa depan aku.,Share_Anxiety,,
+Rasanya kayak nggak bisa santai sama sekali belakangan ini.,Share_Anxiety,,
+Kok aku jadi takut banget ngadepin hari-hari belakangan ini?,Share_Anxiety,,
+"Aku ngerasa kayak ada yang ngeganjel, pengen cerita deh.",Share_Anxiety,,
+"Aku sering deg-degan nggak jelas, itu normal nggak sih?",Share_Anxiety,,
+"Kalau aku cemas gini, aku harus gimana ya?",Share_Anxiety,,
+"Lagi pengen ngobrol, kepala aku penuh banget.",Share_Anxiety,,
+Kadang aku suka kepikiran terus sampai nggak bisa tidur.,Share_Anxiety,,
+Aku bingung kenapa aku suka cemas tanpa alasan.,Share_Anxiety,,
+"Hari ini aku ngerasa berat banget, mau cerita boleh?",Share_Anxiety,,
+Rasanya kayak semua hal bikin aku nggak tenang.,Share_Anxiety,,
+Aku takut banget kalau mikirin yang belum kejadian.,Share_Anxiety,,
+Kok aku jadi sering sedih tanpa sebab ya?,Share_Anxiety,,
+Aku ngerasa nggak pede sama apa yang aku lakuin.,Share_Anxiety,,
+Kadang aku ngerasa nggak cukup baik buat apa pun.,Share_Anxiety,,
+"Kalau aku curhat, kamu bakal ngerti nggak ya?",Share_Anxiety,,
+Aku suka ngerasa sendirian banget belakangan ini.,Share_Anxiety,,
+"Aku sering ngerasa nggak percaya diri, ini wajar nggak ya?",Share_Anxiety,,
+Lagi pengen cerita karena aku ngerasa nggak oke aja.,Share_Anxiety,,
+Gimana caranya biar aku bisa lebih percaya diri kalau lagi ngomong depan orang banyak?,Ask_Positive_Tips,,
+"Kak, aku lagi overthinking terus, ada tips buat ngatasinnya nggak?",Ask_Positive_Tips,,
+"Aku sering ngerasa nggak cukup baik, gimana caranya buat ngubah mindset kayak gitu?",Ask_Positive_Tips,,
+"Kadang aku suka minder sama teman-teman, ada cara biar nggak ngerasa kayak gitu?",Ask_Positive_Tips,,
+"Lagi susah fokus nih, ada tips biar nggak gampang terdistraksi nggak sih?",Ask_Positive_Tips,,
+"Kalau lagi sedih banget gara-gara masalah kecil, aku harus gimana ya biar nggak terlalu kepikiran?",Ask_Positive_Tips,,
+"Aku pengen bisa lebih sabar kalau ada yang bikin kesal, ada tips nggak?",Ask_Positive_Tips,,
+"Susah banget buat ngatur waktu belajar sama main, ada saran nggak kak?",Ask_Positive_Tips,,
+"Kak, aku suka ngerasa kesepian meskipun ada teman-teman, gimana cara ngatasinnya ya?",Ask_Positive_Tips,,
+Gimana caranya biar nggak terlalu kepikiran omongan orang lain?,Ask_Positive_Tips,,
+"Aku sering keburu nyerah kalau lagi ngejalanin sesuatu, ada tips biar lebih konsisten nggak?",Ask_Positive_Tips,,
+"Lagi susah semangat buat ngerjain tugas, gimana ya biar nggak males-malesan?",Ask_Positive_Tips,,
+"Aku suka panik kalau ada ujian, ada cara biar lebih tenang nggak?",Ask_Positive_Tips,,
+"Kadang aku bingung harus mulai dari mana kalau mau belajar, ada tips nggak?",Ask_Positive_Tips,,
+Gimana biar aku bisa lebih disiplin sama jadwal yang aku buat sendiri?,Ask_Positive_Tips,,
+"Aku suka overthinking kalau mikirin masa depan, gimana caranya biar lebih santai?",Ask_Positive_Tips,,
+"Kak, aku suka susah tidur karena banyak pikiran, ada tips biar tidur lebih nyenyak?",Ask_Positive_Tips,,
+"Kalau aku lagi nggak percaya diri sama penampilan, aku harus gimana?",Ask_Positive_Tips,,
+"Aku pengen punya kebiasaan baik tapi sering gagal, ada cara buat ngejalaninnya nggak?",Ask_Positive_Tips,,
+"Susah banget buat nggak bandingin diri sama orang lain, ada tips biar lebih pede nggak?",Ask_Positive_Tips,,
+"Kalau aku lagi kecewa sama diri sendiri, aku harus gimana biar nggak terlalu down?",Ask_Positive_Tips,,
+"Aku pengen lebih pede buat ngobrol sama orang baru, ada tips nggak?",Ask_Positive_Tips,,
+"Lagi bosen banget sama rutinitas, gimana caranya biar lebih semangat lagi?",Ask_Positive_Tips,,
+"Aku sering merasa nggak dihargai sama teman, gimana ya biar lebih santai ngadepinnya?",Ask_Positive_Tips,,
+"Susah banget buat ngerasa bahagia belakangan ini, gimana caranya biar lebih positif lagi?",Ask_Positive_Tips,,
+"Aku lagi kesel banget sama temen aku, dia kok gitu sih?",Friendship_Troubles,,
+Kenapa sih temen kadang suka ngejauhin tanpa alasan jelas?,Friendship_Troubles,,
+"Aku berantem sama sahabatku, sekarang dia jadi dingin banget ke aku.",Friendship_Troubles,,
+Rasanya sedih banget waktu temen deket malah nggak peduli sama aku.,Friendship_Troubles,,
+"Aku curiga temenku ngomongin aku di belakang, gimana dong?",Friendship_Troubles,,
+"Sahabat aku kayaknya udah nemuin temen baru, aku merasa diabaikan.",Friendship_Troubles,,
+Kok temen-temen aku suka nggak ngerti perasaan aku sih?,Friendship_Troubles,,
+"Lagi bingung banget, aku nggak ngerti salah aku apa ke mereka.",Friendship_Troubles,,
+"Aku kangen banget ngobrol sama temenku, tapi dia kayak menjauh.",Friendship_Troubles,,
+"Temen aku sekarang suka banget ngejek, apa itu masih wajar?",Friendship_Troubles,,
+"Kayaknya aku nggak punya temen sejati, cuma temen pas seneng aja.",Friendship_Troubles,,
+Gimana cara biar aku bisa baikan sama temen deketku?,Friendship_Troubles,,
+"Temen aku marah cuma gara-gara hal kecil, aku harus gimana?",Friendship_Troubles,,
+Aku mulai merasa nggak cocok sama temen-temen aku sekarang.,Friendship_Troubles,,
+"Sahabat aku tiba-tiba ghosting, padahal kita deket banget.",Friendship_Troubles,,
+"Aku merasa kayak diperalat sama temen aku, harus ngapain ya?",Friendship_Troubles,,
+"Temen aku suka ngomong yang bikin aku down, aku harus bilang nggak?",Friendship_Troubles,,
+"Aku bingung, temen deket aku sekarang malah kayak orang asing.",Friendship_Troubles,,
+Kadang aku ngerasa temen-temen aku cuma pura-pura peduli.,Friendship_Troubles,,
+"Lagi kesel banget, temen aku nggak mau dengerin aku cerita.",Friendship_Troubles,,
+"Aku ngerasa nggak dihargai sama geng aku, apa aku harus keluar?",Friendship_Troubles,,
+"Temenku suka bikin aku jadi bahan bercandaan, aku nggak nyaman.",Friendship_Troubles,,
+"Kayaknya temen aku suka banget kompetisi sama aku, bikin capek.",Friendship_Troubles,,
+Temen deketku sekarang kayaknya lebih akrab sama orang lain.,Friendship_Troubles,,
+Apa aku terlalu sensitif kalau merasa temen aku mulai berubah?,Friendship_Troubles,,
+"Aku lagi bingung nih, kenapa ya ortu tuh kayak nggak ngerti aku sama sekali?",Family_Issues,,
+"Kok rasanya aku sama kakakku tuh selalu ribut, nggak pernah akur ya?",Family_Issues,,
+"Aku sering berantem sama mama, kayaknya apa-apa salah aja di matanya.",Family_Issues,,
+"Pengen cerita nih, aku capek banget karena papa tuh terlalu overprotective.",Family_Issues,,
+Kenapa sih keluargaku tuh kayak nggak pernah dengerin pendapatku?,Family_Issues,,
+"Aku bosen banget di rumah, nggak ada yang ngerti aku sama sekali.",Family_Issues,,
+"Lagi sebel banget, mama tuh suka ngebandingin aku sama kakak terus.",Family_Issues,,
+"Kayaknya papa nggak percaya sama aku deh, apa-apa dikontrol banget.",Family_Issues,,
+"Aku merasa nggak dihargai di rumah, semuanya kayak nyalahin aku mulu.",Family_Issues,,
+"Mau cerita, aku kesel banget sama adikku yang selalu ngadu-ngaduin aku ke mama.",Family_Issues,,
+"Keluargaku kayak nggak harmonis banget, sering banget berantem.",Family_Issues,,
+"Aku pengen keluar dari rumah deh, capek sama suasana di sini.",Family_Issues,,
+"Lagi bingung, mama tuh kayak nggak pernah percaya kalau aku bisa sendiri.",Family_Issues,,
+"Aku sedih banget, keluargaku nggak pernah ngobrol bareng atau deket gitu.",Family_Issues,,
+"Kalau ngomong sama papa tuh kayak ngomong ke tembok, nggak didengerin.",Family_Issues,,
+"Aku ngerasa di rumah nggak ada yang peduli sama aku, semuanya sibuk sendiri.",Family_Issues,,
+"Lagi marah banget sama mama, dia nggak ngizinin aku ngelakuin apa yang aku mau.",Family_Issues,,
+"Kayaknya aku sama kakakku nggak pernah sepaham deh, selalu cekcok.",Family_Issues,,
+"Aku kesel banget, ortu kayak nggak ngerti aku tuh udah dewasa, bukan anak kecil lagi.",Family_Issues,,
+"Pengen cerita, aku ngerasa kayak anak tiri di rumah sendiri.",Family_Issues,,
+"Aku sering nangis sendiri, papa mama tuh nggak pernah tau apa yang aku rasain.",Family_Issues,,
+"Aku cuma pengen didengerin aja, kenapa di rumah susah banget ya?",Family_Issues,,
+"Lagi sedih banget, mama tuh kayak nggak pernah kasih apresiasi ke aku.",Family_Issues,,
+"Aku ngerasa selalu jadi orang yang salah di rumah, capek banget.",Family_Issues,,
+"Kenapa ya, mama sama papa nggak pernah nanya apa aku lagi bahagia atau nggak?",Family_Issues,,
+"Hai, apa kabar?",Greetings,,
+"Halo, ada waktu nggak?",Greetings,,
+"Yo, bisa cerita nggak?",Greetings,,
+"Eh, lagi apa tuh?",Greetings,,
+"Heii, ngobrol yuk!",Greetings,,
+"Hai, bisa dengerin nggak?",Greetings,,
+"Yo, gimana harimu?",Greetings,,
+"Eh, aku boleh cerita?",Greetings,,
+"Hai, sibuk nggak?",Greetings,,
+"Halo, lagi santai kan?",Greetings,,
+Makasih ya,Thanks,,
+Thanks banget,Thanks,,
+Makasih banyak,Thanks,,
+"Wah, makasih banget",Thanks,,
+"Aduh, makasih ya",Thanks,,
+Terima kasih banget,Thanks,,
+Makasih loh,Thanks,,
+Thanks ya,Thanks,,
+Makasih serius,Thanks,,
+Makasih banget nih,Thanks,,
+Lagi sibuk nggak nih?,General_Conversation,,
+"Cerita dong, hari ini ngapain aja?",General_Conversation,,
+"Eh, lagi asik dengerin lagu apa?",General_Conversation,,
+Ada kabar seru nggak minggu ini?,General_Conversation,,
+Lagi pengen makan apa sekarang?,General_Conversation,,
+Udah nonton film keren belakangan ini belum?,General_Conversation,,
+"Kalau santai gini, biasanya kamu ngapain?",General_Conversation,,
+Lagi suka main game apa?,General_Conversation,,
+Punya rencana buat besok nggak?,General_Conversation,,
+"Cerita dong, yang bikin senyum hari ini apa?",General_Conversation,,
+Lagi sedih banget,Share_Sadness,,
+Hati aku lagi nggak enak,Share_Sadness,,
+Aku capek banget hari ini,Share_Sadness,,
+Kok hidup berat ya?,Share_Sadness,,
+Lagi galau parah,Share_Sadness,,
+Ngerasa sendirian banget,Share_Sadness,,
+Aku bingung sama diri aku,Share_Sadness,,
+Rasanya nggak kuat lagi,Share_Sadness,,
+Aku kecewa banget sekarang,Share_Sadness,,
+Lagi nggak tahu harus gimana,Share_Sadness,,
+Lagi nggak semangat nih.,Ask_Motivation,,
+Gimana biar aku kuat lagi?,Ask_Motivation,,
+Aku butuh dorongan nih.,Ask_Motivation,,
+Ada tips biar nggak nyerah?,Ask_Motivation,,
+Aku ngerasa lelah banget.,Ask_Motivation,,
+Gimana biar aku nggak malas?,Ask_Motivation,,
+Kok aku susah optimis ya?,Ask_Motivation,,
+Aku pengen bangkit lagi.,Ask_Motivation,,
+Apa caranya biar semangat?,Ask_Motivation,,
+Aku butuh motivasi sekarang.,Ask_Motivation,,
+Lagi pengen cerita nih,Need_Someone_To_Talk,,
+Bisa ngobrol bentar gak?,Need_Someone_To_Talk,,
+Mau curhat dikit boleh?,Need_Someone_To_Talk,,
+Aku lagi butuh temen cerita,Need_Someone_To_Talk,,
+"Lagi galau, ngobrol yuk",Need_Someone_To_Talk,,
+Curhat bentar dong,Need_Someone_To_Talk,,
+Aku kepikiran sesuatu nih,Need_Someone_To_Talk,,
+"Ngobrol aja deh, yuk",Need_Someone_To_Talk,,
+"Lagi sedih, cerita dong",Need_Someone_To_Talk,,
+Aku lagi gak enak hati nih,Need_Someone_To_Talk,,
+Aku lagi nggak tenang nih.,Share_Anxiety,,
+Kok aku jadi gampang panik ya?,Share_Anxiety,,
+Rasanya gelisah terus belakangan ini.,Share_Anxiety,,
+Aku suka overthinking mulu.,Share_Anxiety,,
+Lagi ngerasa khawatir banget nih.,Share_Anxiety,,
+Aku sering deg-degan tanpa alasan.,Share_Anxiety,,
+Aku bingung sama perasaan aku sendiri.,Share_Anxiety,,
+Kok aku ngerasa takut terus ya?,Share_Anxiety,,
+Aku nggak bisa berhenti mikirin hal-hal kecil.,Share_Anxiety,,
+Lagi pengen curhat karena cemas aja.,Share_Anxiety,,
+Gimana sih biar aku nggak gampang overthinking?,Ask_Positive_Tips,,
+Ada tips biar nggak cepet nyerah nggak?,Ask_Positive_Tips,,
+"Lagi bingung gimana caranya ngatur waktu, ada saran?",Ask_Positive_Tips,,
+"Aku suka minder, gimana biar lebih pede?",Ask_Positive_Tips,,
+"Kak, ada cara biar nggak gampang marah nggak?",Ask_Positive_Tips,,
+Gimana caranya biar nggak terlalu mikirin omongan orang?,Ask_Positive_Tips,,
+"Aku pengen lebih semangat, ada tips nggak?",Ask_Positive_Tips,,
+"Kalau lagi cemas, aku harus ngapain ya?",Ask_Positive_Tips,,
+Ada cara biar nggak males belajar nggak sih?,Ask_Positive_Tips,,
+Gimana biar aku nggak terlalu bandingin diri sama orang lain?,Ask_Positive_Tips,,
+"Temen aku tuh suka ngilang tiba-tiba, kenapa ya?",Friendship_Troubles,,
+"Lagi sebel, dia kok tiba-tiba berubah sih?",Friendship_Troubles,,
+"Sahabatku udah nggak se-asik dulu, sedih banget.",Friendship_Troubles,,
+Temenku bikin aku kecewa banget hari ini.,Friendship_Troubles,,
+"Aku nggak ngerti deh, salahku apa ke dia?",Friendship_Troubles,,
+Temen deketku malah kayak ngejauh sekarang.,Friendship_Troubles,,
+"Dia marah cuma gara-gara hal kecil, pusing aku.",Friendship_Troubles,,
+Aku ngerasa dia udah nggak peduli lagi.,Friendship_Troubles,,
+Aku capek jadi bahan candaan terus sama dia.,Friendship_Troubles,,
+Rasanya aku cuma dipake kalau dia butuh doang.,Friendship_Troubles,,
+Kok ortu nggak pernah ngerti aku sih?,Family_Issues,,
+Aku kesel banget sama kakak nih.,Family_Issues,,
+Mama tuh nggak pernah percaya aku.,Family_Issues,,
+Di rumah aku berasa nggak dianggap.,Family_Issues,,
+"Papa terlalu ngatur banget, capek deh.",Family_Issues,,
+Kenapa ya aku sama adik nggak akur?,Family_Issues,,
+Mama suka banget bandingin aku terus.,Family_Issues,,
+Keluarga kayak nggak pernah harmonis.,Family_Issues,,
+Aku cuma pengen ortu dengerin aku.,Family_Issues,,
+Capek banget sama drama di rumah.,Family_Issues,,
